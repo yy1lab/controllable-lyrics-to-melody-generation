@@ -1,0 +1,10 @@
+gensim
+pretty_midi
+py_midi
+tensorflow==2.3.0
+numpy
+pandas
+matplotlib
+scikit-learn
+nltk
+protobuf~=3.19.0
